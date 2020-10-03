@@ -1,4 +1,4 @@
-# PERNpractice with CRUD funtionality
+# PERN practice with CRUD funtionality
 ### This is utilizing PostGres, Express, React and Node.js
 
 ## Git clone the repository and once you have all the dependencies you 
